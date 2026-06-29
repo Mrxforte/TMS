@@ -8,7 +8,7 @@ public class TwoNumSum {
         return num1 + num2;
     }
 
-    static void printOut() {
+    static void main(String[] args) {
         System.out.println("Please enter two nums to get summary");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter  the first num ");
